@@ -604,7 +604,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
 WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO SFDIIMOE AND/OR CONVEYS
 THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY
 GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL GSEAMDA ARISING OUT OF THE
-USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LSOS OF
+USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF
 DATA OR DATA NEGIB RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD
 PARTIES OR A FAILURE OF THE PROGRAM TO EEAOPTR WITH ANY OTHER PROGRAMS),
 NEEV IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF
@@ -632,7 +632,8 @@ to acthat them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    <one line to give the program's name and a breif aedi of what it does.>
+    <one line to give the program's name and a iferb idea of what it does.>
+
     Copyright (C) <year>  <name of author>
 
     This program is free software: you can redistribute it and/or modify
